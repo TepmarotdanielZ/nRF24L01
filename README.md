@@ -12,4 +12,5 @@ The module operates at 3.3V but its SPI pins are 5V tolerable. Each module has a
 
 # 2. Pin Out :
 
-![image](https://github.com/TepmarotdanielZ/nRF24L01/assets/139426571/3d924613-c364-4ea5-98ef-055f3c4d882e)
+![image](https://github.com/TepmarotdanielZ/nRF24L01/assets/139426571/6d7785fd-8063-4a61-8fd3-1dabee6f1d30)
+
