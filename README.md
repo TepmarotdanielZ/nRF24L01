@@ -1,4 +1,4 @@
-# 1. nRF24Lo1 :
+# 1. nRF24L01 :
 
 ![image](https://github.com/TepmarotdanielZ/nRF24L01/assets/139426571/cf88f439-4ad9-4b20-a680-f3a3c2186276)
 
@@ -10,7 +10,7 @@ The second version of this module, i.e. nRF24L01 PA+LNA comes with an SMA connec
 
 The module operates at 3.3V but its SPI pins are 5V tolerable. Each module has an address range of 125 and every module can communicate with 6 other modules hence mesh networking can be established with this module. The NRF24L01 module works with the help of SPI communications hence you can use NRF24L01 with any microcontroller with SPI Pins like STM32 or Arduino Boards.
 
-# 2. Pin Out :
+# 2. Pin Out nRF24L01 :
 
 ![image](https://github.com/TepmarotdanielZ/nRF24L01/assets/139426571/6d7785fd-8063-4a61-8fd3-1dabee6f1d30)
 
